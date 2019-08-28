@@ -1,0 +1,82 @@
+@article{Huang_arXiv2017,
+  title={Adversarial attacks on neural network policies},
+  author={Sandy H. Huang and Nicolas Papernot and Ian Goodfellow and Yan Duan and Pieter Abbeel},
+  journal={arXiv preprint arXiv:1702.02284},
+  year={2018}
+}
+
+@article{Huang_AURO2019,
+  title = {Enabling robots to communicate their objectives},
+  author = {Sandy H. Huang and David Held and Pieter Abbeel and Anca D. Dragan},
+  journal = {Autonomous Robots (AURO)},
+  year = 2019,
+  number = 2,
+  volumn = 43,
+  pages = {309--326}
+}
+
+@inproceedings{Pandya_AIES2019,
+  title = {{Human-AI learning performance in multi-armed bandits}},
+  author = {Ravi Pandya and Sandy H. Huang and Dylan Hadfield-Menell and Anca D. Dragan},
+  booktitle = {Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)},
+  year = 2019
+}
+
+@inproceedings{Huang_IROS2018,
+  title = {Establishing appropriate trust via critical states},
+  author = {Sandy H. Huang and Kush Bhatia and Pieter Abbeel and Anca D. Dragan},
+  booktitle = {Proceedings of the Thirty-First Annual IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year = 2018,
+}
+
+@inproceedings{Kwon_HRI2018,
+  title = {Expressing robot incapability},
+  author = {Minae Kwon and Sandy H. Huang and Anca D. Dragan},
+  booktitle = {Proceedings of the Thirteenth Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)},
+  year = 2018,
+}
+
+@inproceedings{Huang_RSS2017,
+  title = {Enabling robots to communicate their objectives},
+  author = {Sandy H. Huang and David Held and Pieter Abbeel and Anca D. Dragan},
+  booktitle = {Proceedings of the Thirteenth Annual Robotics: Science and Systems (RSS)},
+  year = 2017
+}
+
+@inproceedings{Huang_IROS2015,
+  title = {Leveraging appearance priors in non-rigid registration, with application to manipulation of deformable objects},
+  author = {Sandy H. Huang and Jia Pan and George Mulcaire and Pieter Abbeel},
+  booktitle = {Proceedings of the Twenty-Eighth IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year = 2015
+}
+
+@inproceedings{Hadfield-Menell_ICRA2015,
+  title = {Beyond lowest-warping cost action selection in trajectory transfer},
+  author = {Dylan Hadfield-Menell and Alex X. Lee and Chelsea Finn and Eric Tzeng and Sandy H. Huang and Pieter Abbeel}, 
+  booktitle = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)}, 
+  year = 2015
+}
+
+@inproceedings{Lee_IROS2014,
+  title = {Unifying scene registration and trajectory optimization for learning from demonstrations with application to manipulation of deformable objects},
+  author = {Alex X. Lee and Sandy H. Huang and Dylan Hadfield-Menell and Eric Tzeng and Pieter Abbeel},
+  booktitle = {Proceedings of the Twenty-Seventh IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year = 2014
+}
+
+@article{Huang_JAMIA2014,
+  title = {Toward personalizing treatment for depression: predicting diagnosis and severity},
+  author = {Sandy H. Huang and Paea LePendu and Srinivasan V. Iyer and Ming Tai-Seale and David Carrell and Nigam H. Shah},
+  journal = {Journal of the American Medical Informatics Association (JAMIA)},
+  year = 2014,
+  number = 6,
+  volume = 21,
+  pages = {1069-1075}
+}
+
+@inproceedings{Suen_WWW2013,
+  title = {NIFTY: A system for large scale information flow tracking and clustering.},
+  author = {Caroline Suen and Sandy H. Huang and Chantat Eksombatchai and Rok Sosic and Jure Leskovec},
+  booktitle = {Proceedings of the Twenty-Second International World Wide Web Conference (WWW)},
+  year = 2013
+}
