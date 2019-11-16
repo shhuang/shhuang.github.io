@@ -1,8 +1,22 @@
 @article{Huang_arXiv2017,
-  title={Adversarial attacks on neural network policies},
-  author={Sandy H. Huang and Nicolas Papernot and Ian Goodfellow and Yan Duan and Pieter Abbeel},
-  journal={arXiv preprint arXiv:1702.02284},
-  year={2018}
+  title = {Adversarial attacks on neural network policies},
+  author = {Sandy H. Huang and Nicolas Papernot and Ian Goodfellow and Yan Duan and Pieter Abbeel},
+  journal = {arXiv preprint arXiv:1702.02284},
+  year = {2017}
+}
+
+@article{Huang_arXiv2019,
+  title = {Learning gentle object manipulation with curiosity-driven deep reinforcement learning},
+  author = {Sandy H. Huang and Martina Zambelli and Yuval Tassa and Jackie Kay and Murilo F. Martins and Patrick M. Pilarski and Raia Hadsell},
+  journal = {arXiv preprint arXiv:1903.08542},
+  year = {2019}
+}
+
+@inproceedings{Huang_CoRL2019,
+  title = {Nonverbal robot feedback for human teachers},
+  author = {Sandy H. Huang and Isabella Huang and Ravi Pandya and Anca D. Dragan},
+  booktitle = {Proceedings of the Third Conference on Robot Learning (CoRL)},
+  year = 2019
 }
 
 @article{Huang_AURO2019,
